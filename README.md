@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22William-henley%22%2C%22name%22%3A%22Will%20Henley%22%2C%22email%22%3A%22wills.henley15%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Aspiring%20IT%20professional%20passionate%20about%20cybersecurity%2C%20networking%20and%20AI.%22%2C%22themeIdx%22%3A3%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22BIOS%2FUEFI%22%2C%22Storage%20Devices%22%2C%22Command%20Line%22%2C%22Peripheral%20Devices%22%2C%22Virtualization%22%2C%22Git%22%2C%22Python%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%2C%22Veteran%22%2C%22MyComputerCareer%20Student%22%5D%2C%22customHeadlines%22%3A%5B%22Veteran%22%2C%22MyComputerCareer%20Student%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22GitHub%22%2C%22desc%22%3A%22Established%20a%20GitHub%20account%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2F%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22Wi-Fi%22%2C%22VPN%22%2C%22Git%22%2C%22Microsoft%20Azure%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Deploy%20Windows%20Server%20on%20an%20Azure%20Virtual%20Machine%22%2C%22desc%22%3A%22Deploy%20Windows%20Server%20on%20an%20Azure%20Virtual%20Machine%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/William-henley.png" width="150" style="border-radius:50%;border:4px solid #8250df"/>
 
-# Hi there, I'm Will Henley
 
-**Will Henley**
+# Hi there, I'm Your Name
 
-*IT Professional*
+**Your Name**
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40William-henley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/William-henley) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wills.henley15@gmail.com)
+*ITSA Student*
+
+
 
 </div>
 
@@ -18,15 +18,19 @@
 
 ## Professional Summary
 
-Aspiring IT professional passionate about cybersecurity, networking and AI.
+*Add your professional summary above to display it here.*
 
 ---
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-8250df?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-8250df?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-8250df?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-8250df?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-8250df?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-8250df?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-8250df?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-8250df?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-8250df?style=flat-square)
+🖥️ Tech Essentials: ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square)
 
-💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-8250df?style=flat-square) ![Git](https://img.shields.io/badge/Git-8250df?style=flat-square)
+🌐 Networking & Security: ![VPN](https://img.shields.io/badge/VPN-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
+
+💻 Programming Languages & Tools: ![Git](https://img.shields.io/badge/Git-0969da?style=flat-square)
+
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
 
 ---
 
@@ -37,7 +41,7 @@ Aspiring IT professional passionate about cybersecurity, networking and AI.
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| GitHub | Established a GitHub account | ✅ Complete | [Open](https://github.com/) |
+| Deploy Windows Server on an Azure Virtual Machine | Deploy Windows Server on an Azure Virtual Machine | ✅ Complete | — |
 
 </details>
 
